@@ -17,5 +17,7 @@
             "Gloudemans\\Calendar": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "license": [
+        "MIT"
+    ]
 }
